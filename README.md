@@ -18,8 +18,9 @@ DevOps & Cloud Engineer in Thane. I build the path from PR to production — pip
 | Repo | What it is |
 | --- | --- |
 | [remotex](https://github.com/sagarmemane135/remotex) | SSH fleet CLI on PyPI — parallel exec, jump hosts, audit log |
-| [FrappeCloud-Azure-Terraform](https://github.com/sagarmemane135/FrappeCloud-Azure-Terraform) | 4-node Frappe/ERPNext cloud on Azure |
-| [Frappe-Setup](https://github.com/sagarmemane135/Frappe-Setup) | One Docker image, a Frappe site without a two-day bench install |
+| [frappe-cloud-azure](https://github.com/sagarmemane135/frappe-cloud-azure) | 4-node Frappe/ERPNext cloud on Azure |
+| [frappe-dev-container](https://github.com/sagarmemane135/frappe-dev-container) | One Docker image, a Frappe site without a two-day bench install |
+| [frappe-desk-assistant](https://github.com/sagarmemane135/frappe-desk-assistant) | AI sidebar for Frappe Desk — query live ERP data with your own LLM key |
 
 ## Stack
 
